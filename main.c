@@ -1,11 +1,11 @@
-/*
+﻿/*
  * main.c
  *
  *  Created on: 15-01-2014
  *      Author: Administrator
  */
 
-
+// po zmanach
 
 //#include <tAvrLib/hd44780.h>
 //#include <avr/iom8.h>
