@@ -1,11 +1,11 @@
-﻿/*
+/*
  * main.c
  *
  *  Created on: 15-01-2014
  *      Author: Administrator
  */
 
-// po zmanach
+//zmiana pliku main
 
 //#include <tAvrLib/hd44780.h>
 //#include <avr/iom8.h>
@@ -51,7 +51,7 @@ while ( !( UCSRA & (1<<UDRE)) );
 
 
 
-//$GPRMC,064951.000,A,2307.1256,N,12016.4438,E,0.03,165.48,260406,�3.05,W,A*55�
+//$GPRMC,064951.000,A,2307.1256,N,12016.4438,E,0.03,165.48,260406, 3.05,W,A*55 
 
 ISR(USART_RXC_vect){
 	BUFOR[L_BUF]=UDR;
@@ -75,9 +75,9 @@ if(L_BUF >= 3){
 
 int main()
 {
-	/* inicjacja wy�wietlacza */
+	/* inicjacja wy wietlacza */
 //	hd44780_init();
-	/* powi�zanie wy�wietlacza ze standardowym wyj�ciem */
+	/* powi zanie wy wietlacza ze standardowym wyj ciem */
 //	HD44780_BIND_STREAM(stdout);
 
 
