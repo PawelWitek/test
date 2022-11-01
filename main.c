@@ -6,7 +6,7 @@
  */
 
 //zmiana pliku main
-
+// zmiana  2222222222222222222222222
 //#include <tAvrLib/hd44780.h>
 //#include <avr/iom8.h>
 #include <avr/io.h>
