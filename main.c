@@ -4,7 +4,7 @@
  *  Created on: 15-01-2014
  *      Author: Administrator
  */
-//zmiana main tylko main
+
 //zmiana pliku main
 // zmiana  2222222222222222222222222
 // dodane jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
