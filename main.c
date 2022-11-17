@@ -4,6 +4,10 @@
  *  Created on: 15-01-2014
  *      Author: Administrator
  */
+<<<<<<< remotes/origin/add_1
+=======
+//zmiana main tylko main add5
+>>>>>>> local
 
 //zmiana pliku main
 
