@@ -4,6 +4,7 @@
  *  Created on: 15-01-2014
  *      Author: Administrator
  */
+//zmiana add5
 // zmiana add5 i jeszcze jedna zmiana
 //zmiana main tylko main
 //zmiana pliku main
